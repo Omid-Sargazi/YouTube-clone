@@ -312,3 +312,36 @@ nav {
   cursor: pointer;
   outline: 0;
 }
+.vid-desc {
+  padding-left: 55px;
+  margin: 15px 0;
+}
+.vid-desc p {
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #5a5a5a;
+}
+.vid-desc h4 {
+  font-size: 14px;
+  color: #5a5a5a;
+  margin-top: 15px;
+}
+
+.add-comment {
+  display: flex;
+  align-items: center;
+  margin: 30px 0;
+}
+.add-comment img {
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.add-comment input {
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  padding-top: 10px;
+  background: transparent;
+}
